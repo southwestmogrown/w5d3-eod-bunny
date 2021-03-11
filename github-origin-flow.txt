@@ -1,0 +1,13 @@
+1. Clone down the repo. (from App Academy)
+2. Create a new repo on Github
+3. git remote set-url origin [url of your own repo]
+4. git push (if upstream is set) / git push origin main
+
+--- 
+
+1. Clone down the repo.
+2. rm -rf .git
+3. git init
+4. make your first commit
+5. Set the origin to be your new repo on Github
+6. Push
